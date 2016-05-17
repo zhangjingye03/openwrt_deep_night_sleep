@@ -52,7 +52,7 @@
 
 ## Test
 
-* Tested on WDR7500. Functions work fine.
+* Tested on WDR7500 with `Chaos_Calmer 15.05`. Functions work fine. Other versions may also run.
 
 ## License
 
